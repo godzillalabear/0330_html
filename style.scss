@@ -1,0 +1,11 @@
+// style.scss
+$cssheader-color: lavender;
+
+.main-header{
+    color: $cssheader-color;
+    .logo{
+        width: 100px;
+        height: 30px;
+        background-attachment: $cssheader-color;
+    }
+}
